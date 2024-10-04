@@ -1,6 +1,8 @@
 # Overview
 This project is an basic auth template using supabase for auth, shadcn, nextjs, and typescript
 
+![Homepage Screenshot](homepage-screenshot.png)
+
 # Installation
 1. Create a Vercel project and link it to this project with `vercel link`.
 2. Set up a supabase project, and put the NEXT_PUBLIC_SUPABASE_URL & NEXT_PUBLIC_SUPABASE_ANON_KEY in the .env.local file
